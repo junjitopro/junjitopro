@@ -101,13 +101,12 @@ Me llamo **Juan Jose Osorio Rios**, soy desarrollador **Full-Stack** de **Pereir
 
 ## 📦 Proyectos
 
-> 🚧 Portafolio en preparación — ¡muy pronto!
-
-| # | Proyecto | Stack | Estado |
-|---|----------|-------|--------|
-| 1 | 🛒 E-Commerce completo con carrito y pago | Next.js · Prisma · PostgreSQL · Stripe | 🔨 Building |
-| 2 | 📊 Dashboard de métricas en tiempo real | React · Node.js · MongoDB · Chart.js | 🔨 Building |
-| 3 | 🌐 Portafolio personal animado | Next.js · Tailwind · Framer Motion | 🔨 Building |
+| # | Proyecto | Stack | Link | Estado |
+|---|----------|-------|------|--------|
+| 1 | 🎵 **Electro Audio** — Tienda de audio y electrónica | Next.js · Tailwind · Vercel | [🔗 Ver en Vercel](https://electro-audio.vercel.app) | 🚀 En desarrollo |
+| 2 | 🧹 **EvaClean** — Servicios de limpieza profesional | Next.js · Tailwind · Vercel | [🔗 Ver en Vercel](https://evaclean.vercel.app) | 🚀 En desarrollo |
+| 3 | 🛒 E-Commerce con carrito y pagos | Next.js · Prisma · PostgreSQL · Stripe | — | 🔨 Building |
+| 4 | 🌐 Portafolio personal | Next.js · Tailwind · Framer Motion | — | 🔨 Building |
 
 ---
 
@@ -158,8 +157,6 @@ Me llamo **Juan Jose Osorio Rios**, soy desarrollador **Full-Stack** de **Pereir
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="300"/>
-
 *"Solo un bug más y me duermo..." — 3:00 AM*
 
 <br/>
@@ -181,8 +178,7 @@ Me llamo **Juan Jose Osorio Rios**, soy desarrollador **Full-Stack** de **Pereir
 <a href="mailto:juanjoseosoriorios00@gmail.com"><img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="52"/></a>&nbsp;&nbsp;
 <a href="https://github.com/junjitopro"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37c3-4f94-ace9-86d5b4ad5c88.gif" width="52"/></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="52"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-c01d-471f-bd42-6d44f93bcb52.gif" width="52"/></a>&nbsp;&nbsp;
-<a href="https://discord.com/"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="52"/></a>
+<a href="https://instagram.com/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-c01d-471f-bd42-6d44f93bcb52.gif" width="52"/></a>
 
 <br/><br/>
 
