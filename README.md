@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Juan%20Jose%20Osorio%20Rios&fontSize=42&fontColor=fff&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%9A%A1%20E-Commerce%20Builder%20%F0%9F%9B%92%20Performance%20Obsessed&descSize=15&descColor=a8b2d1&descAlignY=52&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Juan%20Jose%20Osorio%20Rios&fontSize=42&fontColor=fff&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%9A%A1%20E-Commerce%20Builder%20%F0%9F%9B%92&descSize=15&descColor=a8b2d1&descAlignY=52&animation=twinkling" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/junjitopro">
@@ -15,19 +15,28 @@
 [![GitHub followers](https://img.shields.io/github/followers/junjitopro?style=for-the-badge&logo=github&color=181717)](https://github.com/junjitopro)
 [![Open to Work](https://img.shields.io/badge/🟢_OPEN_TO_WORK-2ea44f?style=for-the-badge)](mailto:juanjoseosoriorios00@gmail.com)
 
+<br/>
+
+<!-- GIF CODING -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500"/>
+
 </div>
 
 <br/>
 
+---
+
+<br/>
+
 <!-- ABOUT ME -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> &nbsp;About Me
 
 ```js
 const juanJose = {
     location:   "Pereira, Colombia 🇨🇴",
     education:  "Técnico en Sistemas — SENA",
     role:       "Full-Stack Developer",
-    focus:      ["E-Commerce", "Web Performance", "Mobile-First Design"],
+    focus:      ["E-Commerce", "Web Performance", "Mobile-First"],
     motto:      "Si carga lento, no vende. ⚡",
 };
 ```
@@ -36,20 +45,24 @@ const juanJose = {
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" /> &nbsp;**What I Do**
+
 🛒 Construyo **tiendas online** que convierten visitantes en compradores
 
-⚡ Obsesionado con **Core Web Vitals** perfectos y carga instantánea
+⚡ Obsesionado con **Core Web Vitals** y carga instantánea
 
-📱 Diseño **mobile-first** — el 80% del tráfico es desde el celular
+📱 Diseño **mobile-first** — el 80% del tráfico es móvil
 
-🎨 Interfaces **pixel-perfect** con animaciones fluidas y modernas
+🎨 Interfaces **pixel-perfect** con animaciones fluidas
 
-🧠 Siempre aprendiendo arquitectura de software y buenas prácticas
+🧠 Arquitectura limpia y buenas prácticas
 
 </td>
 <td width="50%" valign="top">
 
-🔭 Trabajando en proyectos e-commerce con **Next.js 15**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" /> &nbsp;**Currently**
+
+🔭 Proyectos e-commerce con **Next.js 15**
 
 📚 Profundizando en **TypeScript** y patrones de diseño
 
@@ -57,7 +70,7 @@ const juanJose = {
 
 🚀 Buscando mi primera oportunidad como **Full-Stack Dev**
 
-💬 Pregúntame sobre **React, Next.js, o rendimiento web**
+💬 Ask me about **React, Next.js, o rendimiento web**
 
 </td>
 </tr>
@@ -70,121 +83,38 @@ const juanJose = {
 <br/>
 
 <!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52f1adb1c67.gif" width="30" /> &nbsp;Tech Stack
 
 <div align="center">
 
+<br/>
+
 ### 🎨 Frontend
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br><b>Next.js 15</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br><b>React 19</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-<br><b>TypeScript</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br><b>Tailwind v4</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br><b>HTML5</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br><b>CSS3</b>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" />
+
+<br/><br/>
 
 ### ⚙️ Backend & Database
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br><b>Node.js</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br><b>Express</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br><b>Python</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><b>MongoDB</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br><b>PostgreSQL</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br><b>Supabase</b>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,supabase&theme=dark" />
+
+<br/><br/>
 
 ### ⚡ DevOps & Tools
 
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br><b>Git</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br><b>GitHub</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-<br><b>Vercel</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br><b>Docker</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-<br><b>Vite</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br><b>Figma</b>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br><b>VS Code</b>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vite,figma,vscode&theme=dark" />
+
+<br/><br/>
 
 </div>
-
-<br/>
 
 ---
 
 <br/>
 
-<!-- ARCHITECTURE -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;E-Commerce Architecture
+<!-- ARCHITECTURE DIAGRAM -->
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-461a-a437-8b9a820b55ae.png" width="30" /> &nbsp;E-Commerce Architecture
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
@@ -209,10 +139,12 @@ const juanJose = {
 
 <br/>
 
-<!-- FEATURED PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="28" /> &nbsp;Featured Projects
+<!-- PROJECTS -->
+## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37c3-4f63-899a-e1e023e6c0a4.gif" width="30" /> &nbsp;Featured Projects
 
-> ✨ E-Commerce stores, landing pages & web apps built for speed and conversion
+<div align="center">
+
+> ✨ E-Commerce stores, landing pages & web apps — built for speed and conversion
 
 <!-- DESCOMENTA CUANDO PUBLIQUES REPOS:
 
@@ -221,13 +153,10 @@ const juanJose = {
 | 🛍️ Full shopping cart with Zustand | 🎨 Modern responsive design |
 | ⚡ Next.js 15 SSR + Image Optimization | ✨ Smooth Framer Motion animations |
 | 💳 Payment gateway integration | 📱 Mobile-first + SEO optimized |
-| 🔄 Persistent cart (localStorage) | 📊 Analytics & conversion tracking |
 | [Demo](https://link) · [Repo](https://github.com/junjitopro/repo) | [Demo](https://link) · [Repo](https://github.com/junjitopro/repo) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-05F?style=flat-square&logo=framer&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 -->
-
-<div align="center">
 
 `🔨 Projects under development — coming soon...`
 
@@ -240,17 +169,17 @@ const juanJose = {
 <br/>
 
 <!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c328-408a-b3a9-f0f3772e1b1e.png" width="30" /> &nbsp;GitHub Stats
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junjitopro&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&ring_color=58A6FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junjitopro&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjitopro&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=junjitopro&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com?user=junjitopro&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
 
   <br/><br/>
 
@@ -264,30 +193,13 @@ const juanJose = {
 
 <br/>
 
-<!-- TROPHIES -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> &nbsp;Achievements
-
+<!-- RANDOM DEV QUOTE -->
 <div align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=junjitopro&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+### 💭 Dev Quote of the Day
 
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="550"/>
 
-<br/>
-
----
-
-<br/>
-
-<!-- SNAKE -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junjitopro/junjitopro/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junjitopro/junjitopro/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/junjitopro/junjitopro/output/github-snake-dark.svg" />
-  </picture>
 </div>
 
 <br/>
@@ -299,13 +211,17 @@ const juanJose = {
 <!-- CONTACT -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="28" /> &nbsp;Let's Build Something Together
+## 📬 Let's Build Something Together
+
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="180"/>
+
+<br/><br/>
 
 **¿Tienes un proyecto en mente?** Me encanta convertir ideas en productos digitales que venden.
 
 <br/>
 
-[![Email me](https://img.shields.io/badge/📧_juanjoseosoriorios00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanjoseosoriorios00@gmail.com)
+[![Email](https://img.shields.io/badge/📧_juanjoseosoriorios00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanjoseosoriorios00@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
@@ -314,6 +230,11 @@ const juanJose = {
 ![Visitors](https://komarev.com/ghpvc/?username=junjitopro&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 <br/>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
