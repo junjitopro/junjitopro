@@ -1,167 +1,211 @@
-<!-- HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=180&section=header&text=Juan%20Jose%20Osorio%20Rios&fontSize=36&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20E-Commerce%20Specialist&descSize=16&descColor=B0C4DE&descAlignY=55&animation=fadeIn" width="100%"/>
-</div>
-
-<!-- SOCIAL BADGES -->
-<div align="center">
-  
-  ![GitHub followers](https://img.shields.io/github/followers/junjitopro?style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github)
-  [![Gmail](https://img.shields.io/badge/Gmail-juanjoseosoriorios00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:juanjoseosoriorios00@gmail.com)
-  
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-> ☁️ **Técnico en Sistemas** del SENA, Pereira 🇨🇴 — Desarrollo webs modernas y e-commerce con **Next.js**, obsesionado con la optimización móvil y que cada pixel cargue rápido. Convirtiendo ideas en experiencias digitales que venden.
-
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+# Hey, I'm Juan Jose 👋🏼
 
-</div>
+### `Full-Stack Developer` · `E-Commerce Builder` · `Performance Obsessed`
 
-### ⚙️ Backend & Database
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</div>
-
-### ⚡ DevOps & Tools
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-</div>
-
----
-
-## 🏗️ Full-Stack E-Commerce Architecture
-
-```
-┌──────────────────────────────────────────────────────────────────────────┐
-│             🛒  E-COMMERCE FULL-STACK ARCHITECTURE                      │
-│          Next.js  ·  Node.js  ·  MongoDB  —  Modern Web Apps            │
-├─────────────────────┬──────────────────────┬────────────────────────────┤
-│  FRONTEND           │  BACKEND             │  DATA & DEPLOY             │
-│  ─────────────────  │  ──────────────────  │  ────────────────────────  │
-│  • Next.js 15 (SSR) │  • REST APIs         │  • MongoDB / PostgreSQL   │
-│  • React 19         │  • Node.js + Express │  • Supabase Realtime      │
-│  • TailwindCSS v4   │  • Auth (JWT/OAuth)  │  • Vercel Edge Functions  │
-│  • Framer Motion    │  • Payment Gateway   │  • Docker Containers      │
-│  • Zustand / State  │  • Webhooks          │  • CI/CD Pipelines        │
-├─────────────────────┴──────────────────────┴────────────────────────────┤
-│  ⚡ TypeScript  ·  ESLint  ·  Git  ·  Figma  ·  Mobile-First Design    │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🚀 Featured Projects
-
-> ✨ Desarrollo tiendas online, landing pages y web apps enfocadas en rendimiento y conversión
-
-<!-- Descomenta cuando tengas repos públicos:
-
-| 🛒 **E-Commerce Store** | 🌐 **Landing Page** |
-|:---:|:---:|
-| 🛍️ Carrito de compras con Zustand | 🎨 Diseño moderno responsive |
-| ⚡ Next.js 15 SSR + Image Optimization | ✨ Animaciones con Framer Motion |
-| 💳 Integración pasarela de pagos | 📱 Mobile-first + SEO optimizado |
-| 🔄 Persistencia localStorage | 📊 Analytics integrado |
-| [Demo](https://link.com) · [Repo](https://github.com/junjitopro/repo) | [Demo](https://link.com) · [Repo](https://github.com/junjitopro/repo) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Zustand](https://img.shields.io/badge/Zustand-000?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-05F?style=flat-square&logo=framer&logoColor=white) |
-
--->
-
-`🔨 Proyectos en desarrollo — próximamente públicos...`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=junjitopro&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjitopro&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-  <br/><br/>
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=junjitopro&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-  ![Snake animation](https://raw.githubusercontent.com/junjitopro/junjitopro/output/github-snake-dark.svg)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-  [![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-000000?style=for-the-badge)](mailto:juanjoseosoriorios00@gmail.com)
-
-</div>
-
-<div align="center">
-
-| [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanjoseosoriorios00@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/) |
-|:---:|:---:|
-| juanjoseosoriorios00@gmail.com | Juan Jose Osorio Rios |
+[![Gmail](https://img.shields.io/badge/-juanjoseosoriorios00@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanjoseosoriorios00@gmail.com)
+&nbsp;&nbsp;
+![Location](https://img.shields.io/badge/-Pereira,_Colombia_🇨🇴-blue?style=flat)
+&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/-Open_to_Work_🟢-success?style=flat)
 
 </div>
 
 <br/>
 
+```js
+// juanjose.config.js
+
+const juanJose = {
+  code:       ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+  tools:      ["React", "Next.js 15", "Node.js", "Express", "TailwindCSS"],
+  databases:  ["MongoDB", "PostgreSQL", "Supabase"],
+  deploy:     ["Vercel", "Docker", "Git"],
+  focus:      "E-Commerce & Mobile-First Performance",
+  education:  "Técnico en Sistemas — SENA",
+  motto:      "Si carga lento, no vende. ⚡"
+};
+```
+
+<br/>
+
+---
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 What I Do
+
+- 🛒 Desarrollo **tiendas online** que convierten visitantes en compradores
+- ⚡ Optimizo cada milisegundo de carga — **Core Web Vitals** perfectos
+- 📱 Diseño **mobile-first** porque el 80% del tráfico es móvil
+- 🎨 Pixel-perfect UI con animaciones fluidas
+- 🔗 APIs robustas y bases de datos escalables
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Currently
+
+- 🔭 Construyendo proyectos e-commerce con **Next.js 15**
+- 📚 Profundizando en **TypeScript** y arquitectura de software
+- 🐳 Aprendiendo **Docker** y deployment profesional
+- 🚀 Buscando mi primera oportunidad laboral como dev
+- 💬 Pregúntame sobre **React, Next.js o rendimiento web**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## ⚒️ Technologies & Tools
+
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=junjitopro&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br><sub><b>CSS3</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br><sub><b>Express</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br><sub><b>Supabase</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><sub><b>Docker</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br><sub><b>Vercel</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br><sub><b>Vite</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br><sub><b>Figma</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><sub><b>Linux</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
-<!-- FOOTER -->
+<br/>
+
+---
+
+<br/>
+
+## 📈 Stats
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=120&section=footer&animation=twinkling" width="100%"/>
-  
-  ⚡ Built with passion in Pereira, Colombia 🇨🇴 — *"Cada pixel cuenta, cada segundo importa"*
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=junjitopro&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=junjitopro&show_icons=true&hide_border=true&count_private=true" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=junjitopro&theme=github-dark-blue&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" />
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=junjitopro&hide_border=true" />
+  </picture>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 📬 Let's build something together
+
+**¿Tienes un proyecto en mente?** Escríbeme, me encanta convertir ideas en productos digitales.
+
+<br/>
+
+[![Email me](https://img.shields.io/badge/juanjoseosoriorios00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanjoseosoriorios00@gmail.com)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=junjitopro&style=flat-square&color=58A6FF&label=visitors)
+
+<sub>⚡ *"Si carga lento, no vende."* — From Pereira 🇨🇴 with code & coffee ☕</sub>
+
 </div>
