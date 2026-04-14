@@ -10,7 +10,8 @@
 
 [![Gmail](https://img.shields.io/badge/-juanjoseosoriorios00-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:juanjoseosoriorios00@gmail.com)
 [![GitHub](https://img.shields.io/badge/-junjitopro-181717?style=flat&logo=github&logoColor=white)](https://github.com/junjitopro)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-osorio-rios-33600a305/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/juan_.o1/)
 [![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-00C853?style=flat&logo=checkmarx&logoColor=white)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=junjitopro&label=Visitas&color=00FFC8&style=flat)](#)
 
@@ -169,8 +170,8 @@ Me llamo **Juan Jose Osorio Rios**, soy desarrollador **Full-Stack** de **Pereir
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanjoseosoriorios00@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junjitopro)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-osorio-rios-33600a305/)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan_.o1/)
 
 <br/><br/>
 
