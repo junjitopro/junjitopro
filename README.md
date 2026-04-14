@@ -1,38 +1,42 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          🌊 ANIMATED WAVE HEADER                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!--              🌌 ANIMATED HEADER — ULTRA PREMIUM v7               -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=220&section=header&text=Juan%20Jose%20Osorio%20Rios&fontSize=42&fontColor=FFFFFF&fontAlignY=30&desc=Full-Stack%20Developer%20%E2%9A%A1%20E-Commerce%20Builder%20%F0%9F%9B%92&descSize=16&descColor=58A6FF&descAlignY=52&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0f3460,80:533483,100:0D1117&height=280&section=header&text=Juan%20Jose%20Osorio%20Rios&fontSize=42&fontColor=58A6FF&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Ing.%20en%20Sistemas%20%F0%9F%87%A8%F0%9F%87%B4&descSize=17&descColor=C8AAFF&descAlignY=54&animation=twinkling" width="100%"/>
 
-<!-- ✦ TYPING SVG ANIMATION ✦ -->
+<!-- ✦ HERO TYPING - TERMINAL STYLE ✦ -->
 <a href="https://github.com/junjitopro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%91%8B+Hola!+Welcome+to+my+digital+space;%F0%9F%9B%92+Building+e-commerce+that+converts;%E2%9A%A1+Every+millisecond+counts;%F0%9F%87%A8%F0%9F%87%B4+Coding+from+Pereira%2C+Colombia+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=4000&pause=600&color=58A6FF&center=true&vCenter=true&width=700&height=65&lines=Hello%2C+World!+%F0%9F%91%8B;%3E+Juan+Jose+Osorio+Rios;%3E+Full-Stack+Developer+%E2%9A%A1;%3E+E-Commerce+Builder+%F0%9F%9B%92;%3E+from+Pereira%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Hero Typing" />
 </a>
 
-<br/>
-
-<!-- ✦ BADGES ROW ✦ -->
-<a href="mailto:juanjoseosoriorios00@gmail.com"><img src="https://img.shields.io/badge/Gmail-juanjoseosoriorios00-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/junjitopro"><img src="https://img.shields.io/github/followers/junjitopro?style=for-the-badge&logo=github&color=181717&labelColor=0D1117"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-2ea44f?style=for-the-badge"/>
-
-<br/>
-
-<!-- ✦ STATUS BADGES ✦ -->
-<img src="https://img.shields.io/badge/Focus-E--Commerce-58A6FF?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Lives-Pereira%2C%20Colombia%20🇨🇴-success?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-important?style=flat-square"/>
+<!-- ✦ SUBTEXT TYPING - CODE QUOTES ✦ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=C8AAFF&center=true&vCenter=true&repeat=true&width=600&height=38&lines=%3E+if(!succeed)+%7B+return+try.again()+%7D;%3E+console.log(%22Si+carga+lento%2C+no+vende%22)+%E2%9A%A1;%3E+new+FullStackDev(%7B+from%3A+%22Pereira%22+%7D);%3E+git+commit+-m+%22building+the+future%22" alt="Code Quotes" />
 
 <br/><br/>
 
-<!-- ✦ MAIN CODING GIF ✦ -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500"/>
+<!-- ✦ BADGES ✦ -->
+<a href="mailto:juanjoseosoriorios00@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/junjitopro">
+  <img src="https://img.shields.io/github/followers/junjitopro?style=for-the-badge&logo=github&color=181717&labelColor=0D1117&label=GitHub"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-2ea44f?style=for-the-badge"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=junjitopro&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<!-- ✦ STATUS TAGS ✦ -->
+<img src="https://img.shields.io/badge/📍_Pereira-Colombia-success?style=flat-square&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎓_Ing._en_Sistemas-SENA-A78BFA?style=flat-square&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⚡_E--Commerce-Web_Performance-58A6FF?style=flat-square&labelColor=0D1117"/>
 
 </div>
 
@@ -44,21 +48,43 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          🧑‍💻 ABOUT ME                                     -->
+<!--                    🖥️ DUAL GIFs — DEVELOPER IN ACTION                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> &nbsp;About Me
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="46%"/>
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="46%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ SHARK DIVIDER BLUE→PURPLE ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:A78BFA&height=30&section=header&reversal=false" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          🧑‍💻 ABOUT ME — TERMINAL STYLE                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30"/> &nbsp;`$ whoami`
 
 ```javascript
-const juanJose = {
-    location:   "Pereira, Colombia 🇨🇴",
-    education:  "Técnico en Sistemas — SENA",
-    role:       "Full-Stack Developer",
-    focus:      ["E-Commerce", "Web Performance", "Mobile-First"],
-    motto:      "Si carga lento, no vende. ⚡",
-    fuel:       "Colombian Coffee >>> everything ☕"
+const dev = {
+  name:      "Juan Jose Osorio Rios",
+  location:  "📍 Pereira, Colombia 🇨🇴",
+  education: "🎓 Ingeniería en Sistemas — SENA",
+  role:      "💻 Full-Stack Developer",
+  passion:   ["⚡ Web Performance", "🛒 E-Commerce", "📱 Mobile-First UI"],
+  motto:     "Si carga lento, no vende. ⚡",
+  fuel:      "Colombian Coffee ☕  +  Clean Code 🧹  +  Reggaeton 🎵"
 };
 ```
+
+<br/>
 
 <table>
 <tr>
@@ -66,30 +92,30 @@ const juanJose = {
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20"/> &nbsp;**What I Build**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="16"/> &nbsp;Online stores that convert visitors → buyers
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="16"/> &nbsp;E-commerce that converts visitors → buyers
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="16"/> &nbsp;Obsessed with **Core Web Vitals** & instant loading
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="16"/> &nbsp;Blazing fast sites with **< 2s** load time
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="16"/> &nbsp;**Mobile-first** design — 80% of traffic is mobile
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="16"/> &nbsp;**Mobile-first** — 80% of traffic is 📱
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="16"/> &nbsp;**Pixel-perfect** interfaces with fluid animations
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="16"/> &nbsp;**Pixel-perfect** UI, zero compromises
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="16"/> &nbsp;Clean architecture & scalable patterns
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="16"/> &nbsp;Clean & scalable architecture
 
 </td>
 <td width="50%" valign="top">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20"/> &nbsp;**Currently**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="16"/> &nbsp;E-commerce builds with **Next.js 15**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="16"/> &nbsp;Deep in **Next.js 15** + Server Components
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="16"/> &nbsp;Deep diving into **TypeScript** patterns
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="16"/> &nbsp;Mastering **TypeScript** strict mode
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="16"/> &nbsp;Learning **Docker** & CI/CD workflows
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" width="16"/> &nbsp;Learning **Docker** + CI/CD pipelines
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="16"/> &nbsp;Seeking first **Full-Stack Dev** role
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="16"/> &nbsp;Hunting my **first Full-Stack Dev** role 🎯
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="16"/> &nbsp;Ask me about **React, Next.js, or Web Perf**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="16"/> &nbsp;Always building something
 
 </td>
 </tr>
@@ -97,40 +123,43 @@ const juanJose = {
 
 <br/>
 
+<!-- ✦ DEV LIFECYCLE - CREATIVE ASCII SECTION ✦ -->
 <div align="center">
 
-<!-- ✦ CODE CYCLE ✦ -->
-
-**` ⟨ The Dev Cycle ⟩ `**
-
-<br/>
+```
+  ╭──────────────────────────────────────────────────╮
+  │          🔄  THE DEVELOPER LIFECYCLE             │
+  │                                                  │
+  │   🐛 Bug  →  ✅ Works  →  😵 HOW?!  →  🚀 Ship  │
+  ╰──────────────────────────────────────────────────╯
+```
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="8%"/>
 
-**`Bug found!`** &nbsp;&nbsp;&nbsp; **`It compiles!`** &nbsp;&nbsp;&nbsp; **`How?!`** &nbsp;&nbsp;&nbsp; **`Ship it! 🚀`**
+**`Bug found`** &nbsp;·&nbsp; **`It compiles!`** &nbsp;·&nbsp; **`Wait... how?!`** &nbsp;·&nbsp; **`Ship it! 🚀`**
 
 </div>
 
 <br/>
 
-<!-- ═══════════════ CAPSULE SHARK DIVIDER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:0D1117&height=30&section=header&reversal=false" width="100%"/>
+<!-- ═══════════════ SHARK DIVIDER PURPLE→BLUE ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:A78BFA,100:58A6FF&height=30&section=footer&reversal=false" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          🛠️ TECH STACK                                    -->
+<!--                          ⚡ TECH ARSENAL                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> &nbsp;Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> &nbsp;`$ ls -la tech_stack/`
 
 <br/>
 
@@ -138,10 +167,11 @@ const juanJose = {
 <tr>
 <td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20"/>
-**Frontend**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="22"/>
 
-<br/><br/>
+**🎨 Frontend**
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js&theme=dark" />
 <br/><br/>
@@ -150,10 +180,11 @@ const juanJose = {
 </td>
 <td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20"/>
-**Backend & Database**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22"/>
 
-<br/><br/>
+**⚙️ Backend & DB**
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
 <br/><br/>
@@ -162,10 +193,11 @@ const juanJose = {
 </td>
 <td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20"/>
-**DevOps & Tools**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22"/>
 
-<br/><br/>
+**🚀 DevOps & Tools**
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel&theme=dark" />
 <br/><br/>
@@ -177,8 +209,7 @@ const juanJose = {
 
 <br/>
 
-<!-- ✦ ANIMATED TECH EMOJIS ROW ✦ -->
-
+<!-- ✦ TECH EMOJI STRIP ✦ -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40"/>
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="40"/>
@@ -203,109 +234,29 @@ const juanJose = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                     🏗️ E-COMMERCE ARCHITECTURE                            -->
+<!--                     📊 STATS — git log --oneline --stat                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Bags.png" width="30"/> &nbsp;E-Commerce Architecture
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30"/> &nbsp;`$ git log --oneline --stat`
 
 <br/>
 
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                🛒  FULL-STACK E-COMMERCE PIPELINE                           │
-│           Next.js  ·  Node.js  ·  MongoDB — Sell Faster ⚡                  │
-├──────────────────────┬──────────────────────┬───────────────────────────────┤
-│  🎨 FRONTEND         │  🔧 BACKEND          │  📦 DATA & DEPLOY            │
-│  ──────────────────  │  ──────────────────  │  ───────────────────────────  │
-│  Next.js 15 (SSR)    │  REST APIs           │  MongoDB Atlas / PostgreSQL  │
-│  React 19 + Hooks    │  Node.js + Express   │  Supabase (Realtime)         │
-│  TailwindCSS v4      │  JWT / OAuth         │  Vercel (Edge Deploy)        │
-│  Framer Motion       │  Stripe / MercadoPago│  Docker Containers           │
-│  Zustand (State)     │  Webhooks & Crons    │  GitHub Actions (CI/CD)      │
-├──────────────────────┴──────────────────────┴───────────────────────────────┤
-│  ⚡ TypeScript · Mobile-First · Core Web Vitals · SEO · Accessibility      │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-<!-- ═══════════════ CAPSULE SHARK DIVIDER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:0D1117&height=30&section=footer&reversal=false" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          📦 FEATURED PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="30"/> &nbsp;Featured Projects
-
-<br/>
-
-> ✨ E-Commerce stores, landing pages & web apps — built for speed and conversion
-
-<br/>
-
-<!-- UNCOMMENT WHEN REPOS ARE PUBLIC:
-
-| 🛒 **E-Commerce Store** | 🌐 **Client Landing Page** |
-|:---|:---|
-| 🛍️ Full shopping cart with Zustand | 🎨 Modern responsive design |
-| ⚡ Next.js 15 SSR + Image Optimization | ✨ Smooth Framer Motion animations |
-| 💳 Payment gateway integration | 📱 Mobile-first + SEO optimized |
-| [Demo](link) · [Repo](link) | [Demo](link) · [Repo](link) |
-
--->
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" width="50"/>
-
-**`🔨 Projects under construction — launching soon!`**
-
-</div>
-
-<br/>
-
-<!-- ═══════════════ ANIMATED RAINBOW DIVIDER ═══════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          🏆 GITHUB STATS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="30"/> &nbsp;GitHub Stats
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=junjitopro&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&cache_seconds=86400" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=junjitopro&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" />
-
-<br/><br/>
-
-<!-- ✦ STREAK STATS ✦ -->
-<img src="https://streak-stats.demolab.com?user=junjitopro&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+<!-- ✦ STREAK ✦ -->
+<img src="https://streak-stats.demolab.com?user=junjitopro&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=A78BFA&fire=FF6B35&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" />
 
 <br/><br/>
 
 <!-- ✦ ACTIVITY GRAPH ✦ -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=junjitopro&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&area_color=58A6FF" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=junjitopro&theme=github-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=58A6FF&point=FF6B35&area=true&area_color=A78BFA" width="95%"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════ CAPSULE SHARK DIVIDER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:0D1117&height=30&section=header&reversal=false" width="100%"/>
+<!-- ═══════════════ SHARK DIVIDER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:A78BFA,100:58A6FF&height=30&section=header&reversal=false" width="100%"/>
 
 <br/>
 
@@ -331,7 +282,7 @@ const juanJose = {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          💭 DEV QUOTE                                     -->
+<!--                          💭 DEV QUOTE OF THE DAY                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -346,13 +297,13 @@ const juanJose = {
 
 <br/>
 
-<!-- ═══════════════ CAPSULE SHARK DIVIDER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:0D1117&height=30&section=footer&reversal=false" width="100%"/>
+<!-- ═══════════════ SHARK DIVIDER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:A78BFA&height=30&section=footer&reversal=false" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                          📬 CONNECT WITH ME                               -->
+<!--                          📬 CONTACT — LET'S BUILD                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -361,17 +312,19 @@ const juanJose = {
 
 <br/>
 
-**¿Tienes un proyecto en mente?** Me encanta convertir ideas en productos digitales que venden.
+**¿Tienes un proyecto en mente?** Hablemos. 🚀
+
+Me encanta convertir ideas en productos digitales que realmente venden.
 
 <br/>
 
-<a href="mailto:juanjoseosoriorios00@gmail.com"><img src="https://img.shields.io/badge/📧_juanjoseosoriorios00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:juanjoseosoriorios00@gmail.com">
+  <img src="https://img.shields.io/badge/📧_juanjoseosoriorios00@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 &nbsp;
-<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=junjitopro&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+<a href="https://linkedin.com/in/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <br/><br/>
 
@@ -384,7 +337,7 @@ const juanJose = {
 <!--                          🌊 ANIMATED WAVE FOOTER                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0f3460,80:533483,100:0D1117&height=130&section=footer&animation=twinkling" width="100%"/>
 
 <sub>⚡ <i>"Si carga lento, no vende."</i> — Hecho con ☕ desde Pereira, Colombia 🇨🇴</sub>
 
