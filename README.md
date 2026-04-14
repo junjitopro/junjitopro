@@ -118,20 +118,11 @@ Me llamo **Juan Jose Osorio Rios**, soy desarrollador **Full-Stack** de **Pereir
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=junjitopro&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FFC8&icon_color=00FFC8&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjitopro&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FFC8&text_color=c9d1d9" width="38%"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=junjitopro&theme=merko&hide_border=true&background=0d1117&stroke=00FFC8&ring=00FFC8&fire=FF6B6B&currStreakLabel=00FFC8&sideLabels=aaaaaa&dates=666666" width="60%"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=junjitopro&theme=merko&hide_border=true&bg_color=0d1117&color=00FFC8&line=00FFC8&point=ffffff&area=true&area_color=00FFC8" width="95%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=junjitopro&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" width="90%"/>
 
 </div>
 
