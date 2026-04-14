@@ -4,8 +4,10 @@
 
 <div align="center">
 
-<!-- TYPING SVG HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Juan+Jose+Osorio+Rios;Full-Stack+Developer+%7C+E-Commerce+Specialist)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Juan%20Jose%20Osorio%20Rios&fontSize=36&fontColor=58A6FF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20E-Commerce%20Specialist&descSize=16&descColor=8B949E&descAlignY=55&animation=fadeIn" width="100%"/>
+
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Creando+experiencias+digitales+que+venden;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Optimización+móvil+%26+rendimiento+web;E-Commerce+%26+Full-Stack+Development)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,9 +22,9 @@
 
 <br/>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/junjitopro/junjitopro/main/assets/coding.gif" alt="Coding"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
 
-### &nbsp; Sobre Mí
+### &nbsp;`>_ Sobre Mí`
 
 ```yaml
 name: Juan Jose Osorio Rios
@@ -33,9 +35,10 @@ focus: E-Commerce & Web Performance
 available_for_hire: true
 ```
 
-&nbsp; Desarrollo webs modernas y e-commerce con **Next.js**, obsesionado con la
-optimización móvil y que cada pixel cargue rápido ⚡ — Técnico en Sistemas del
-**SENA** que convierte ideas en experiencias digitales que venden 🚀
+> Desarrollo webs modernas y e-commerce con **Next.js**, obsesionado con la
+> optimización móvil y que cada pixel cargue rápido ⚡  
+> Técnico en Sistemas del **SENA** que convierte ideas en  
+> experiencias digitales que venden 🚀
 
 <br clear="both"/>
 
@@ -43,11 +46,11 @@ optimización móvil y que cada pixel cargue rápido ⚡ — Técnico en Sistema
 
 <br/>
 
-## 🛠️ &nbsp; Tech Stack
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/> &nbsp; Tech Stack
 
 <div align="center">
 
-#### &nbsp; Frontend
+#### 🎨 &nbsp; Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,14 +59,14 @@ optimización móvil y que cada pixel cargue rápido ⚡ — Técnico en Sistema
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### &nbsp; Backend & Database
+#### ⚙️ &nbsp; Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### &nbsp; Tools & DevOps
+#### 🔧 &nbsp; Tools & Deploy
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -77,7 +80,7 @@ optimización móvil y que cada pixel cargue rápido ⚡ — Técnico en Sistema
 
 <br/>
 
-## 📊 &nbsp; GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"/> &nbsp; GitHub Analytics
 
 <div align="center">
 
@@ -113,9 +116,8 @@ optimización móvil y que cada pixel cargue rápido ⚡ — Técnico en Sistema
 
 <div align="center">
 
-<!-- Cuando tengas repos públicos, descomenta y personaliza estas cards: -->
+<!-- Cuando tengas repos públicos, descomenta y personaliza estas cards:
 
-<!--
 <a href="https://github.com/junjitopro/REPO-NAME">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=junjitopro&repo=REPO-NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
 </a>
@@ -123,9 +125,10 @@ optimización móvil y que cada pixel cargue rápido ⚡ — Técnico en Sistema
 <a href="https://github.com/junjitopro/REPO-NAME-2">
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=junjitopro&repo=REPO-NAME-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
 </a>
+
 -->
 
-> 🔨 &nbsp; Próximamente — Proyectos en desarrollo...
+`🔨 Próximamente — Proyectos en desarrollo...`
 
 </div>
 
@@ -133,7 +136,7 @@ optimización móvil y que cada pixel cargue rápido ⚡ — Técnico en Sistema
 
 <br/>
 
-## 🐍 &nbsp; Contribution Graph
+## 🐍 &nbsp; Contribution Snake
 
 <div align="center">
 
@@ -148,23 +151,19 @@ optimización móvil y que cada pixel cargue rápido ⚡ — Técnico en Sistema
 <!-- CONNECT SECTION -->
 <div align="center">
 
-### 📬 &nbsp; ¿Hablamos?
+### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-461a-a437-8b9a820b55ae.png" width="25"/> &nbsp; ¿Hablamos?
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanjoseosoriorios00@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.com)
 
 <br/><br/>
 
----
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=120&section=footer" width="100%"/>
 
 </div>
 
